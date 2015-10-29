@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/amazingakirah01/basketball.png?label=ready&title=Ready)](https://waffle.io/amazingakirah01/basketball)
 # basketball
 Project: What Makes Candace Parker A Great Basketball Player
 
